@@ -36,7 +36,7 @@ Currently deepening my studies in **Python**, **SQL** and **web development**, a
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
+<img align="right" width="240px" src="https://raw.githubusercontent.com/Purplemixcolor/Purplemixcolor/main/charpng.jpg" alt="character"/>
 
 <br clear="right"/>
 
