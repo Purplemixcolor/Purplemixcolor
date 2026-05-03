@@ -43,11 +43,12 @@
 
 ## >_ ACADEMIC_ARCHIVES (Core_Protocols)
 
-◈ **Bacharelado em Engenharia de Software** _[NOME DA SUA FACULDADE AQUI]_ | 202X — 202X  
-  `// Status: [EM ANDAMENTO / CONCLUÍDO]`
-
-◈ **[NOME DO CURSO SE TIVER OUTRO]** _[NOME DA INSTITUIÇÃO]_ | 202X — 202X  
-  `// Status: COMPILED`
+◈ **Postgraduate Specialization in Machine Learning Engineering** | 2026 — 2026  
+ `// Status: SYNCING`
+◈ **Bachelor's Degree in Software Engineering** | 2025 — 2029  
+ `// Status: SYNCING`
+◈ **Associate Degree in Systems Analysis and Development** | 2023 — 2025  
+ `// Status: COMPILED`
 
 ---
 
@@ -78,4 +79,3 @@
 | ✅ | `COMPILED` Transição da Indústria 4.0 para 5.0 | Complete |
 | 🔄 | `SYNCING` Formação Docker Fundamentals | In Progress |
 | 🔄 | `SYNCING` Formação Linux Fundamentals | In Progress |
-
