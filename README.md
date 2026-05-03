@@ -71,9 +71,9 @@
 
 | Status | Data_Stream (Course) | Protocol |
 |:---:|:---|:---:|
-| ✅ | `COMPILED` Machine Learning e Data Science com Python | Complete |
-| ✅ | `COMPILED` IA Generativa e Engenharia de Prompt | Complete |
-| ✅ | `COMPILED` Data Science na Prática: Finanças | Complete |
-| ✅ | `COMPILED` Transição da Indústria 4.0 para 5.0 | Complete |
-| 🔄 | `SYNCING` Formação Docker Fundamentals | In Progress |
-| 🔄 | `SYNCING` Formação Linux Fundamentals | In Progress |
+| ✅ |  Machine Learning e Data Science com Python | `COMPILED` |
+| ✅ |  IA Generativa e Engenharia de Prompt | `COMPILED` |
+| ✅ |  Data Science na Prática: Finanças | `COMPILED` |
+| ✅ |  Transição da Indústria 4.0 para 5.0 | `COMPILED` |
+| 🔄 |  Formação Docker Fundamentals | `SYNCING` |
+| 🔄 |  Formação Linux Fundamentals | `SYNCING` |
