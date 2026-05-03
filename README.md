@@ -39,3 +39,41 @@
 ◈ Syndicate : Open Source Collective
 ◈ Build     : INT / DEX
 ◈ Status    : Hunter. Evading deletion.
+
+## >_ ACADEMIC_ARCHIVES (Core_Protocols)
+
+◈ **Bacharelado em Engenharia de Software** _[NOME DA SUA FACULDADE AQUI]_ | 202X — 202X  
+  `// Status: [EM ANDAMENTO / CONCLUÍDO]`
+
+◈ **[NOME DO CURSO SE TIVER OUTRO]** _[NOME DA INSTITUIÇÃO]_ | 202X — 202X  
+  `// Status: COMPILED`
+
+---
+
+## >_ Technologies_Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=00FFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=00FFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=00FFFF)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=00FFFF)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=00FFFF)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=00FFFF)
+
+</div>
+
+---
+
+## >_ SKILL_UPLOADS (Neural_Certifications)
+
+| Status | Data_Stream (Course) | Protocol |
+|:---:|:---|:---:|
+| ✅ | `COMPILED` Machine Learning e Data Science com Python | Complete |
+| ✅ | `COMPILED` IA Generativa e Engenharia de Prompt | Complete |
+| ✅ | `COMPILED` Data Science na Prática: Finanças | Complete |
+| ✅ | `COMPILED` Transição da Indústria 4.0 para 5.0 | Complete |
+| 🔄 | `SYNCING` Formação Docker Fundamentals | In Progress |
+| 🔄 | `SYNCING` Formação Linux Fundamentals | In Progress |
