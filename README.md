@@ -24,11 +24,10 @@
 
 > *"Data is the new blood. We are born of the data, made whole by the data, undone by the data."*
 
-// Core focus: **Software Engineering**, **Machine Learning** and **Backend Systems**. 
-// Deploying neural algorithms and robust system architectures.
-// Experience matrix: **Python**, **C#**, **.NET**, **SQL**, **JavaScript**, **Git**.
+// Core focus: **Software Engineering**, **Machine Learning** and **Backend Systems**.<br>
+// Deploying neural algorithms and robust system architectures.<br>
+// Experience matrix: **Python**, **C#**, **.NET**, **SQL**, **JavaScript**, **Git**.<br>
 // Currently exploring: **Cloud Computing (AWS)**, **Docker** and **Linux** protocols.
-
 <br clear="right"/>
 
 ### >_ Classification
