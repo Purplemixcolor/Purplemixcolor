@@ -39,6 +39,7 @@
 ◈ Syndicate : Open Source Collective
 ◈ Build     : INT / DEX
 ◈ Status    : Hunter. Evading deletion.
+```
 
 ## >_ ACADEMIC_ARCHIVES (Core_Protocols)
 
@@ -77,3 +78,4 @@
 | ✅ | `COMPILED` Transição da Indústria 4.0 para 5.0 | Complete |
 | 🔄 | `SYNCING` Formação Docker Fundamentals | In Progress |
 | 🔄 | `SYNCING` Formação Linux Fundamentals | In Progress |
+
