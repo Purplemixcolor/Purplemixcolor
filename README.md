@@ -57,16 +57,15 @@
 ## >_ Technologies_Stack
 
 <div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=00FFFF)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=00FFFF)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=00FFFF)
-![C#](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=00FFFF)
-![.NET](https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=dotnet&logoColor=00FFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=00FFFF)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=00FFFF)
-
+  <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=00FFFF" height="35" />
+  <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=00FFFF" height="35" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=00FFFF" height="35" />
+  <img src="https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=00FFFF" height="35" />
+  <img src="https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=dotnet&logoColor=00FFFF" height="35" />
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=00FFFF" height="35" />
+  <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=00FFFF" height="35" />
+  <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonwebservices&logoColor=00FFFF" height="35" />
+  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=00FFFF" height="35" />
 </div>
 
 ---
