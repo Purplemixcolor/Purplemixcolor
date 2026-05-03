@@ -43,7 +43,7 @@
 
 ## >_ ACADEMIC_ARCHIVES (Core_Protocols)
 
-◈ **Postgraduate Specialization in Machine Learning Engineering** | 2026 — 2026  
+◈ **Postgraduate in Machine Learning Engineering** | 2026 — 2026  
  `// Status: SYNCING`
 ◈ **Bachelor's Degree in Software Engineering** | 2025 — 2029  
  `// Status: SYNCING`
