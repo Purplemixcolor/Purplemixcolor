@@ -24,21 +24,19 @@
 
 > *"Data is the new blood. We are born of the data, made whole by the data, undone by the data."*
 
-// Deepening studies in **Python**, **SQL** and **web development**. 
-// Deploying neural networks and automation protocols.
-// Experience matrix: **HTML/CSS**, **JavaScript**, **React**, **Node.js**, **Git**.
-// Currently exploring: **AWS & Cloud Computing**.
+// Core focus: **Software Engineering**, **Machine Learning** and **Backend Systems**. 
+// Deploying neural algorithms and robust system architectures.
+// Experience matrix: **Python**, **C#**, **.NET**, **SQL**, **JavaScript**, **Git**.
+// Currently exploring: **Cloud Computing (AWS)**, **Docker** and **Linux** protocols.
 
 <br clear="right"/>
 
 ### >_ Classification
 
 ```yaml
-◈ Class     : Netrunner / Software Engineer
-◈ Origin    : Brazil 🇧🇷
-◈ Syndicate : Open Source Collective
-◈ Build     : INT / DEX
-◈ Status    : Hunter. Evading deletion.
+◈ Class     : Software Engineer
+◈ Origin    : South America
+◈ Status    : Working...
 ```
 
 ## >_ ACADEMIC_ARCHIVES (Core_Protocols)
