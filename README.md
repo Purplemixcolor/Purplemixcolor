@@ -43,12 +43,14 @@
 
 ## >_ ACADEMIC_ARCHIVES (Core_Protocols)
 
-◈ **Postgraduate in Machine Learning Engineering** | 2026 — 2026  
- `// Status: SYNCING`
-◈ **Bachelor's Degree in Software Engineering** | 2025 — 2029  
- `// Status: SYNCING`
-◈ **Associate Degree in Systems Analysis and Development** | 2023 — 2025  
- `// Status: COMPILED`
+◈ **Postgraduate in Machine Learning Engineering** | 2026 — 2026<br>
+  `// Status: SYNCING`
+
+◈ **Bachelor's Degree in Software Engineering** | 2025 — 2029<br>
+  `// Status: SYNCING`
+
+◈ **Associate Degree in Systems Analysis and Development** | 2023 — 2025<br>
+  `// Status: COMPILED`
 
 ---
 
