@@ -1,22 +1,17 @@
-<!-- BANNER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Purplemixcolor/Purplemixcolor/main/banner.jpg" width="100%" alt="banner"/>
 </div>
 
-<!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Machine+Learning+Specialist;Software+Engineering.;Cloud+Computing." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Machine+Learning+Specialist;Software+Engineer;Cloud+Computing" alt="Typing SVG"/>
 </div>
 
 <br/>
 
-<!-- CONTACT -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antônio-josué-maciel-meneses-b23453292)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://SEU_PORTFOLIO.com)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://SEU_PORTFOLIO.com) </div>
 
 <br/>
 
@@ -28,7 +23,7 @@
 
 ---
 
-**Full-Stack Developer**
+**software engineering**
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
@@ -40,12 +35,11 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <br clear="right"/>
 
-
-◈  Class     →  Full-Stack Developer
-◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
+◈  Class    →  Full-Stack Developer
+◈  Origin   →  Brazil 🇧🇷
+◈  Covenant →  Open Source
+◈  Build    →  INT / DEX
+◈  Status   →  Hunter. Refuses to go hollow.
 
 ---
 
@@ -78,7 +72,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ladymnria&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Purplemixcolor&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purplemixcolor&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
@@ -100,9 +94,9 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 | | Course | Status |
 |:---:|:---|:---:|
 | ◈ | Formação Docker Fundamentals | 🔄 In Progress |
-| ◈ | Formação Linux Fudamentals | 🔄 In Progress |
-| ◈ | Machine Learning e Data Science com python | ✅ Complete |
-| ◈ | IA Generativa e Engenhariad de Prompt para Software | ✅ Complete |
+| ◈ | Formação Linux Fundamentals | 🔄 In Progress |
+| ◈ | Machine Learning e Data Science com Python | ✅ Complete |
+| ◈ | IA Generativa e Engenharia de Prompt para Software | ✅ Complete |
 | ◈ | Data Science na Prática: Finanças | ✅ Complete |
 | ◈ | Transição da Indústria 4.0 para 5.0 | ✅ Complete |
 
@@ -112,7 +106,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=Purplemixcolor&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/Purplemixcolor/SEU_REPO)
+[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=Purplemixcolor&repo=NOME_DO_SEU_REPOSITORIO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/Purplemixcolor/NOME_DO_SEU_REPOSITORIO)
 
 </div>
 
