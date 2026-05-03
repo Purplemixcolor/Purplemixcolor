@@ -58,14 +58,14 @@
 
 <div align="center">
 
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=00FFFF)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=00FFFF)
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=00FFFF)
+![C#](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=00FFFF)
+![.NET](https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=dotnet&logoColor=00FFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=00FFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=00FFFF)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=00FFFF)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
 ![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=00FFFF)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=00FFFF)
 
 </div>
 
